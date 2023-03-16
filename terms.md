@@ -16,7 +16,7 @@ La aplicación utiliza servicios de terceros que declaran sus Términos y condic
 
 Enlace a los Términos y condiciones de los proveedores de servicios de terceros utilizados por la aplicación
 
-* [Servicios de Google Play](https://policies.google.com/terms)
+* [Servicios de Google Play](https://play.google.com/intl/es_es/about/play-terms/)
 
 Debe tener en cuenta que hay ciertas cosas de las que el desarrollador no se hará responsable. Ciertas funciones de la aplicación requerirán que la aplicación tenga una conexión a Internet activa. La conexión puede ser Wi-Fi o proporcionada por su proveedor de red móvil, pero el desarrollador no puede asumir la responsabilidad de que la aplicación no funcione con todas sus funciones si no tiene acceso a Wi-Fi y no tiene ninguno de queda tu asignación de datos.
 
