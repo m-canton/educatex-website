@@ -1,0 +1,1 @@
+Este repositorio es utilizado para complementar el videojuego educativo EducaTeX disponible para dispositivos Android.
