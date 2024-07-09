@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Este es el sitio oficial del videojuego educativo EducaTeX disponible
   para dispositivos Android en Google Play.
 baseurl: /
-url: m-canton.github.io/EducaTeX-Plus
+url: m-canton.github.io/educatex-website
 
 # Build settings
 markdown: kramdown
